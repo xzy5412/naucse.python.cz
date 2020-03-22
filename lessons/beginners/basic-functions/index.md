@@ -27,7 +27,7 @@ na nový řádek);
 `sep` udává, co se vypíše mezi jednotlivými argumenty (místo mezery).
 
 > [note]
-> Příklad opět spusť ze souboru, ne interaktivně:
+> Příklad opět spusť  ze souboru, ne interaktivně:
 
 ```python
 print(1, 'dvě', False)
