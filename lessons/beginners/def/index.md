@@ -127,7 +127,7 @@ obsah_elipsy(3, 5)
 ```
 
 Program takhle funguje, ale přichází o jednu z hlavních výhod funkcí:
-možnost vrácenou hodnotu použít i jinak jež jen v `print`.
+možnost vrácenou hodnotu použít i jinak než jen v `print`.
 
 Funkci, která výsledek vrací, můžeš použít v dalších výpočtech:
 
